@@ -11,3 +11,9 @@ target/
 /craft-fonts
 *.log
 __pycache__/
+
+# Visual Studio local state
+/.vs/
+*.vcxproj.user
+*.VC.db
+*.VC.VC.opendb

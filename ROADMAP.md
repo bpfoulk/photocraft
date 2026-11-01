@@ -144,3 +144,9 @@ Detail and the next releases: [docs/roadmap.md](docs/roadmap.md).
 | 2026-10-10 | minor | Mainstream-practitioner and essentials-user numbers added |
 | 2026-10-10 | minor | Alpha gate result (passes; stays alpha) in the stage explanation |
 | 2026-10-10 | major | First version, per craftrules `standards/progress-docs.md` |
+
+## Development tooling updates
+
+| Date | Change |
+| --- | --- |
+| 2026-10-15 | Added a local Visual Studio 2026 x64 solution with Cargo-backed Debug/Release builds, PDB/native debugger settings and documented build options. Application parity/readiness estimates are unchanged. See [setup](docs/visual-studio.md). |
